@@ -81,5 +81,5 @@ v1.0.2
 
 ----
 ## 项目的持续需要您的支持
-<img src="assets/zs.png" style="width:50%">   
+<img src="assets/zs.png" style="width:30%">   
 
