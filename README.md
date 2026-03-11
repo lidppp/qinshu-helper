@@ -124,6 +124,16 @@ v1.0.12
 v2.0.1
 > 1. 添加API刷课功能, 较以往, 最大可以10倍加速获取分数, 慎用, 未经过全面测试, 不确定是否有其他问题   
 
+v2.0.2
+> 1. 添加0-20秒 api刷课获取课程id延迟, 提升获取id成功率  
+> 2. 重构网络请求  
+> 3. 解决API刷课可能会内存溢出问题  
+
+v2.0.3  
+> 1. 添加一键作业功能  
+> 2. 添加贡献者名单  
+
+
 ----  
   
 目前已知问题:     
@@ -138,8 +148,11 @@ v2.0.1
 感谢您的支持   
 **cheers**  
 **karma**
+---
+## 贡献者
 
-
+[<img src="https://github.com/xiaozangao.png" width="60px;" style="border-radius:50%" alt="xiaozangao"/>](https://github.com/xiaozangao)
+[<img src="https://github.com/Eecopr.png" width="60px;" style="border-radius:50%" alt="Eecopr"/>](https://github.com/Eecopr)
 ----
 ## 项目的持续需要您的支持
 <img src="assets/zs.png" style="width:30%">   
